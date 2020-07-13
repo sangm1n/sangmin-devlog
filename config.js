@@ -2,7 +2,7 @@
 
 module.exports = {
   url: "https://lumen.netlify.com",
-  pathPrefix: "https://github.com/sangm1n/sangmin-devlog",
+  pathPrefix: "/sangmin-devlog",
   title: "Blog by John Doe",
   subtitle:
     "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
