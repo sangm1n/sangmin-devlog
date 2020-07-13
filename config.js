@@ -3,9 +3,8 @@
 module.exports = {
   url: "https://lumen.netlify.com",
   pathPrefix: "/sangmin-devlog",
-  title: "Blog by John Doe",
-  subtitle:
-    "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  title: "sangmin's blog",
+  subtitle: "Dept. of Software, Dankook University",
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
@@ -26,10 +25,9 @@ module.exports = {
     },
   ],
   author: {
-    name: "John Doe",
-    photo: "/photo.jpg",
-    bio:
-      "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+    name: "Lee Sang Min",
+    photo: "/sangmin.jpg",
+    bio: "Dept. of Software, Dankook University",
     contacts: {
       email: "",
       facebook: "#",
