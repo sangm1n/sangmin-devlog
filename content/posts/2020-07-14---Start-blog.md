@@ -1,6 +1,6 @@
 ---
-title: [20200714] TIL 시작하기
-date: "2020-07-14"
+title: "[20200714] TIL 시작하기"
+date: "2020-07-14T16:01:42.169Z"
 template: "post"
 draft: false
 slug: "start-blog"
@@ -24,7 +24,7 @@ description: "Today I Learned의 약자로 오늘 공부한 내용을 기록하�
 
 ![image](https://user-images.githubusercontent.com/46131688/87387215-35d7c980-c5dd-11ea-9cb9-5f769614aa0b.png)
 
-(2020.07.14 현 시점 github contributions)
+<center>(2020.07.14 현 시점 github contributions)</center>
 
 ---
 
