@@ -37,7 +37,7 @@ module.exports = {
       rss: "",
       vkontakte: "",
       linkedin: "",
-      instagram: "https://www.instagram.com/s_angm1n",
+      instagram: "",
       line: "",
       gitlab: "",
       weibo: "",
