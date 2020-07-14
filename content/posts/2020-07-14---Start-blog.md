@@ -1,5 +1,6 @@
 ---
 title: [20200714] TIL 시작하기
+date: "2020-07-14"
 template: "post"
 draft: false
 slug: "start-blog"
