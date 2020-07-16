@@ -15,7 +15,7 @@ description: "Today I Learned의 약자로 오늘 공부한 내용을 기록하�
 **Today I Learned**의 약자로 오늘 공부한 내용을 기록하는 것을 뜻한다.
 어렵게 생각하지 말고 일기장 정도로 생각하면 될 것 같다.
 
----
+<hr>
 
 ## Why TIL ?
 
@@ -26,7 +26,7 @@ description: "Today I Learned의 약자로 오늘 공부한 내용을 기록하�
 
 <center>(2020.07.14 현 시점 github contributions)</center>
 
----
+<hr>
 
 ## 진행 방향 💻
 
