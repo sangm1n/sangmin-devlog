@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: "이상민",
     photo: "/sangmin.jpg",
-    bio: "Dept. of Software, Dankook University",
+    bio: "Software, Dankook University",
     contacts: {
       email: "dltkd96als@naver.com",
       facebook: "",
