@@ -3,7 +3,7 @@ title: "[Python] Advanced grammar"
 date: "2020-07-24T16:01:42.169Z"
 template: "post"
 draft: false
-slug: "python_"
+slug: "python_grammar"
 category: "Python"
 tags:
   - "Python"
@@ -12,7 +12,7 @@ description: "파이썬 개발 역량을 높여줄 고급 문법 정리"
 
 ## 인덴트 (Indent)
 
-<center><i>공백 4칸 들여쓰기</i></center>
+<center><i>"원칙은 공백 4칸 들여쓰기"</i></center>
 
 - 코드 첫 번째 줄에 파라미터 있는 경우
 
@@ -32,7 +32,7 @@ def long_function_name(
 
 ## 네이밍 컨벤션 (Naming Convention)
 
-<center><i>Snake case vs Camel case</i></center>
+<center><i>"Snake case vs Camel case"</i></center>
 
 ```{.python}
 # Python : Snake case
@@ -44,7 +44,7 @@ camelCase: int = 1
 
 ## 타입 힌트 (Type Hind)
 
-<center><i>동적 타이핑 언어지만 타입 힌트 지원</i></center>
+<center><i>"동적 타이핑 언어지만 타입 힌트 지원"</i></center>
 
 ```{.python}
 # 타입 힌트 사용 X
@@ -60,7 +60,7 @@ def fn(a: int) -> bool:
 
 ## 리스트 컴프리헨션 (List Comprehension)
 
-<center><i>기존 리스트를 기반으로 새로운 리스트 만들기</i></center>
+<center><i>"기존 리스트를 기반으로 새로운 리스트 만들기"</i></center>
 
 ```{.python}
 # 홀수인 경우 2를 곱해 출력
@@ -69,7 +69,7 @@ def fn(a: int) -> bool:
 
 ## 제너레이터 (Generator)
 
-<center><i>루프의 반복 동작 제어</i></center>
+<center><i>"루프의 반복 동작 제어"</i></center>
 
 - yield 구문 사용
 - 중간값을 리턴한 다음 함수는 종료되지 않고 계속 실행
@@ -92,7 +92,7 @@ for _ in range(0, 100):
 
 ## range
 
-<center><i>range()는 range 클래스 리턴</i></center>
+<center><i>"range()는 사실 클래스를 리턴한다."</i></center>
 
 ```{.python}
 # 숫자 100만 개 생성
@@ -106,7 +106,7 @@ b = range(1000000)
 
 ## enumerate
 
-<center><i>순서가 있는 자료형을 enumerate 객체로 리턴</i></center>
+<center><i>"순서가 있는 자료형을 enumerate 객체로 리턴"</i></center>
 
 - 인덱스를 자동으로 부여
 
@@ -122,7 +122,7 @@ for i, v in enumerate(a):
 
 ## // 나눗셈 연산자
 
-<center><i>몫을 구하는 연산자</i></center>
+<center><i>"몫을 구하는 연산자"</i></center>
 
 - divmod() : 몫과 나머지 동시에 구하기
 
@@ -132,7 +132,7 @@ divmod(5, 3)
 
 ## print
 
-<center><i>코딩테스트 시 출력이 아닌 디버깅 용도</i></center>
+<center><i>"코딩테스트 시 출력이 아닌 디버깅 용도"</i></center>
 
 ```{.python}
 # A1 B2
@@ -157,7 +157,7 @@ print(f'{idx + 1}: {fruit}')
 
 ## pass
 
-<center><i>pass = null operation</i></center>
+<center><i>"pass = null operation"</i></center>
 
 - 아무것도 하지 않는 기능
   - 인덴트 오류 같은 불필요한 오류 방지
