@@ -1,5 +1,5 @@
 ---
-title: "[Data Structure] String Array"
+title: "[Data Structure] Array"
 date: "2020-07-28T17:01:42.169Z"
 template: "post"
 draft: false
