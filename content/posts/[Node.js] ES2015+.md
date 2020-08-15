@@ -1,5 +1,5 @@
 ---
-title: "[Javascript] ES2015+ (ES6)"
+title: "[Node.js] ES2015+ (ES6)"
 date: "2020-08-14T19:01:42.169Z"
 template: "post"
 draft: false
