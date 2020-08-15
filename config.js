@@ -7,7 +7,7 @@ module.exports = {
   subtitle: "Dept. of Software, Dankook University",
   copyright: "© All rights reserved.",
   disqusShortname: "",
-  postsPerPage: 4,
+  postsPerPage: 8,
   googleAnalyticsId: "UA-73379983-2",
   useKatex: false,
   menu: [
@@ -16,12 +16,24 @@ module.exports = {
       path: "/",
     },
     {
-      label: "About me",
-      path: "/pages/about",
+      label: "TIL",
+      path: "/category/til",
     },
     {
-      label: "Contact me",
-      path: "/pages/contacts",
+      label: "Data Structure",
+      path: "/category/data-structure",
+    },
+    {
+      label: "Algorithm",
+      path: "/category/algorithm",
+    },
+    {
+      label: "Python",
+      path: "/category/python",
+    },
+    {
+      label: "Node.js",
+      path: "/category/node-js",
     },
   ],
   author: {
