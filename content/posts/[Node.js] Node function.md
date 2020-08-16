@@ -1,13 +1,13 @@
 ---
-title: "[Node.js] Node function"
-date: "2020-08-14T20:01:42.169Z"
-template: "post"
+title: '[Node.js] Node function'
+date: '2020-08-13T20:01:42.169Z'
+template: 'post'
 draft: false
-slug: "nodejs_function"
-category: "Node.js"
+slug: 'nodejs_function'
+category: 'Node.js'
 tags:
-  - "Node.js"
-description: "Node.js - 노드 기능 정리"
+  - 'Node.js'
+description: 'Node.js - 노드 기능 정리'
 ---
 
 ## REPL

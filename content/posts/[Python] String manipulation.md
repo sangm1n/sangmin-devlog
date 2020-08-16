@@ -1,13 +1,13 @@
 ---
-title: "[Python] String manipulation"
-date: "2020-07-25T17:01:42.169Z"
-template: "post"
+title: '[Python] String manipulation'
+date: '2020-07-24T17:01:42.169Z'
+template: 'post'
 draft: false
-slug: "python_string"
-category: "Python"
+slug: 'python_string'
+category: 'Python'
 tags:
-  - "Python"
-description: "파이썬 문자열 조작 정리"
+  - 'Python'
+description: '파이썬 문자열 조작 정리'
 ---
 
 ## 슬라이싱 (Slicing)

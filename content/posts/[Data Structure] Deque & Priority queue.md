@@ -1,14 +1,14 @@
 ---
-title: "[Data Structure] Deque & Priority queue"
-date: "2020-07-31T14:01:42.169Z"
-template: "post"
+title: '[Data Structure] Deque & Priority queue'
+date: '2020-07-30T14:01:42.169Z'
+template: 'post'
 draft: false
-slug: "data_structure_deque"
-category: "Data Structure"
+slug: 'data_structure_deque'
+category: 'Data Structure'
 tags:
-  - "Data Structure"
-  - "Linear"
-description: "선형 자료구조 - 데크와 우선순위 큐 정리"
+  - 'Data Structure'
+  - 'Linear'
+description: '선형 자료구조 - 데크와 우선순위 큐 정리'
 ---
 
 ## 데크 (Deque)

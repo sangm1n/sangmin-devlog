@@ -1,13 +1,13 @@
 ---
-title: "[Algorithm] Sorting"
-date: "2020-08-02T21:01:42.169Z"
-template: "post"
+title: '[Algorithm] Sorting'
+date: '2020-08-01T21:01:42.169Z'
+template: 'post'
 draft: false
-slug: "algorithm_sorting"
-category: "Algorithm"
+slug: 'algorithm_sorting'
+category: 'Algorithm'
 tags:
-  - "Algorithm"
-description: "알고리즘 - 정렬 정리"
+  - 'Algorithm'
+description: '알고리즘 - 정렬 정리'
 ---
 
 ## 정렬 (Sorting)

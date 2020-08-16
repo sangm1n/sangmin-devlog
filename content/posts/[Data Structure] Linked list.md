@@ -1,14 +1,14 @@
 ---
-title: "[Data Structure] Linked List"
-date: "2020-07-30T17:01:42.169Z"
-template: "post"
+title: '[Data Structure] Linked List'
+date: '2020-07-29T17:01:42.169Z'
+template: 'post'
 draft: false
-slug: "data_structure_linked_list"
-category: "Data Structure"
+slug: 'data_structure_linked_list'
+category: 'Data Structure'
 tags:
-  - "Data Structure"
-  - "Linear"
-description: "선형 자료구조 - 연결 리스트 정리"
+  - 'Data Structure'
+  - 'Linear'
+description: '선형 자료구조 - 연결 리스트 정리'
 ---
 
 ## 연결 리스트 (Linked List)

@@ -1,14 +1,14 @@
 ---
-title: "[Data Structure] Stack & Queue"
-date: "2020-07-30T19:01:42.169Z"
-template: "post"
+title: '[Data Structure] Stack & Queue'
+date: '2020-07-29T19:01:42.169Z'
+template: 'post'
 draft: false
-slug: "data_structure_stack_queue"
-category: "Data Structure"
+slug: 'data_structure_stack_queue'
+category: 'Data Structure'
 tags:
-  - "Data Structure"
-  - "Linear"
-description: "선형 자료구조 - 스택과 큐 정리"
+  - 'Data Structure'
+  - 'Linear'
+description: '선형 자료구조 - 스택과 큐 정리'
 ---
 
 ## 스택 (Stack)

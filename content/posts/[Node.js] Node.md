@@ -1,13 +1,13 @@
 ---
-title: "[Node.js] Node"
-date: "2020-08-14T18:01:42.169Z"
-template: "post"
+title: '[Node.js] Node'
+date: '2020-08-13T18:01:42.169Z'
+template: 'post'
 draft: false
-slug: "nodejs_start"
-category: "Node.js"
+slug: 'nodejs_start'
+category: 'Node.js'
 tags:
-  - "Node.js"
-description: "Node.js - 개념 정리"
+  - 'Node.js'
+description: 'Node.js - 개념 정리'
 ---
 
 ## What is Node.js ?

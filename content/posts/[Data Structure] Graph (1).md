@@ -1,14 +1,14 @@
 ---
-title: "[Data Structure] Graph (1)"
-date: "2020-08-01T18:01:42.169Z"
-template: "post"
+title: '[Data Structure] Graph (1)'
+date: '2020-07-31T18:01:42.169Z'
+template: 'post'
 draft: false
-slug: "data_structure_graph1"
-category: "Data Structure"
+slug: 'data_structure_graph1'
+category: 'Data Structure'
 tags:
-  - "Data Structure"
-  - "Non-Linear"
-description: "비선형 자료구조 - 그래프 정리 (1)"
+  - 'Data Structure'
+  - 'Non-Linear'
+description: '비선형 자료구조 - 그래프 정리 (1)'
 ---
 
 ## 그래프 (Graph)

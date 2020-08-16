@@ -1,14 +1,14 @@
 ---
-title: "[Data Structure] Hash table"
-date: "2020-07-31T15:01:42.169Z"
-template: "post"
+title: '[Data Structure] Hash table'
+date: '2020-07-30T15:01:42.169Z'
+template: 'post'
 draft: false
-slug: "data_structure_hash"
-category: "Data Structure"
+slug: 'data_structure_hash'
+category: 'Data Structure'
 tags:
-  - "Data Structure"
-  - "Linear"
-description: "선형 자료구조 - 해시 테이블 정리"
+  - 'Data Structure'
+  - 'Linear'
+description: '선형 자료구조 - 해시 테이블 정리'
 ---
 
 ## 해시 테이블 (Hash Table)

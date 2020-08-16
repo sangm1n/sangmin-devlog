@@ -1,13 +1,13 @@
 ---
-title: "[Node.js] ES2015+ (ES6)"
-date: "2020-08-14T19:01:42.169Z"
-template: "post"
+title: '[Node.js] ES2015+ (ES6)'
+date: '2020-08-13T19:01:42.169Z'
+template: 'post'
 draft: false
-slug: "nodejs_javascript"
-category: "Node.js"
+slug: 'nodejs_javascript'
+category: 'Node.js'
 tags:
-  - "Node.js"
-description: "ES2015+ (ES6) 훑기"
+  - 'Node.js'
+description: 'ES2015+ (ES6) 훑기'
 ---
 
 ## var / const / let

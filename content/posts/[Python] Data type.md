@@ -1,13 +1,13 @@
 ---
-title: "[Python] Data type"
-date: "2020-07-24T14:10:42.169Z"
-template: "post"
+title: '[Python] Data type'
+date: '2020-07-23T14:10:42.169Z'
+template: 'post'
 draft: false
-slug: "python_datatype"
-category: "Python"
+slug: 'python_datatype'
+category: 'Python'
 tags:
-  - "Python"
-description: "파이썬이 제공하는 자료형과 각 자료형 특징 정리"
+  - 'Python'
+description: '파이썬이 제공하는 자료형과 각 자료형 특징 정리'
 ---
 
 ## 숫자

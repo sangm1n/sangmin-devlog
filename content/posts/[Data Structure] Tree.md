@@ -1,14 +1,14 @@
 ---
-title: "[Data Structure] Tree"
-date: "2020-08-02T12:01:42.169Z"
-template: "post"
+title: '[Data Structure] Tree'
+date: '2020-08-01T12:01:42.169Z'
+template: 'post'
 draft: false
-slug: "data_structure_tree"
-category: "Data Structure"
+slug: 'data_structure_tree'
+category: 'Data Structure'
 tags:
-  - "Data Structure"
-  - "Non-Linear"
-description: "비선형 자료구조 - 트리 정리"
+  - 'Data Structure'
+  - 'Non-Linear'
+description: '비선형 자료구조 - 트리 정리'
 ---
 
 ## 트리 (Tree)

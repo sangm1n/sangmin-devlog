@@ -1,14 +1,14 @@
 ---
-title: "[Data Structure] Shortest path"
-date: "2020-08-01T20:01:42.169Z"
-template: "post"
+title: '[Data Structure] Shortest path'
+date: '2020-07-31T20:01:42.169Z'
+template: 'post'
 draft: false
-slug: "data_structure_shortest_path"
-category: "Data Structure"
+slug: 'data_structure_shortest_path'
+category: 'Data Structure'
 tags:
-  - "Data Structure"
-  - "Non-Linear"
-description: "비선형 자료구조 - 최단 경로 문제 정리"
+  - 'Data Structure'
+  - 'Non-Linear'
+description: '비선형 자료구조 - 최단 경로 문제 정리'
 ---
 
 ## 최단 경로 문제

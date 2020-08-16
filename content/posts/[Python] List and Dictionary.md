@@ -1,13 +1,13 @@
 ---
-title: "[Python] List & Dictionary"
-date: "2020-07-25T16:01:42.169Z"
-template: "post"
+title: '[Python] List & Dictionary'
+date: '2020-07-24T16:01:42.169Z'
+template: 'post'
 draft: false
-slug: "python_list_dict"
-category: "Python"
+slug: 'python_list_dict'
+category: 'Python'
 tags:
-  - "Python"
-description: "파이썬 리스트와 딕셔너리 구조와 원리 및 문법 정리"
+  - 'Python'
+description: '파이썬 리스트와 딕셔너리 구조와 원리 및 문법 정리'
 ---
 
 ## 리스트 (List)

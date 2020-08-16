@@ -1,13 +1,13 @@
 ---
-title: "[Algorithm] Greedy algorithm"
-date: "2020-08-05T19:01:42.169Z"
-template: "post"
+title: '[Algorithm] Greedy algorithm'
+date: '2020-08-04T19:01:42.169Z'
+template: 'post'
 draft: false
-slug: "algorithm_greedy"
-category: "Algorithm"
+slug: 'algorithm_greedy'
+category: 'Algorithm'
 tags:
-  - "Algorithm"
-description: "알고리즘 - 그리디 알고리즘 정리"
+  - 'Algorithm'
+description: '알고리즘 - 그리디 알고리즘 정리'
 ---
 
 ## 그리디 알고리즘 (Greedy Algorithm)

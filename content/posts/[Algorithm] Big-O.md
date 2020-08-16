@@ -1,13 +1,13 @@
 ---
-title: "[Algorithm] Big-O"
-date: "2020-07-24T18:01:42.169Z"
-template: "post"
+title: '[Algorithm] Big-O'
+date: '2020-07-23T18:01:42.169Z'
+template: 'post'
 draft: false
-slug: "algorithm_big_o"
-category: "Algorithm"
+slug: 'algorithm_big_o'
+category: 'Algorithm'
 tags:
-  - "Algorithm"
-description: "Big-O 개념 및 계산 복잡도 정리"
+  - 'Algorithm'
+description: 'Big-O 개념 및 계산 복잡도 정리'
 ---
 
 ## 계산 복잡도

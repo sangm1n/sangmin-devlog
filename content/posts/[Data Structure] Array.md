@@ -1,14 +1,14 @@
 ---
-title: "[Data Structure] Array"
-date: "2020-07-28T17:01:42.169Z"
-template: "post"
+title: '[Data Structure] Array'
+date: '2020-07-27T17:01:42.169Z'
+template: 'post'
 draft: false
-slug: "data_structure_array"
-category: "Data Structure"
+slug: 'data_structure_array'
+category: 'Data Structure'
 tags:
-  - "Data Structure"
-  - "Linear"
-description: "선형 자료구조 - 배열 정리"
+  - 'Data Structure'
+  - 'Linear'
+description: '선형 자료구조 - 배열 정리'
 ---
 
 ## 자료구조

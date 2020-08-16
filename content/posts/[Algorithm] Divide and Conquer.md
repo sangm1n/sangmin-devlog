@@ -1,13 +1,13 @@
 ---
-title: "[Algorithm] Divide and Conquer"
-date: "2020-08-04T17:01:42.169Z"
-template: "post"
+title: '[Algorithm] Divide and Conquer'
+date: '2020-08-03T17:01:42.169Z'
+template: 'post'
 draft: false
-slug: "algorithm_divide_conquer"
-category: "Algorithm"
+slug: 'algorithm_divide_conquer'
+category: 'Algorithm'
 tags:
-  - "Algorithm"
-description: "알고리즘 - 분할 정복 정리"
+  - 'Algorithm'
+description: '알고리즘 - 분할 정복 정리'
 ---
 
 ## 분할 정복 (Greedy Algorithm)

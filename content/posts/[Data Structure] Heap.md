@@ -1,14 +1,14 @@
 ---
-title: "[Data Structure] Heap"
-date: "2020-08-02T18:01:42.169Z"
-template: "post"
+title: '[Data Structure] Heap'
+date: '2020-08-01T18:01:42.169Z'
+template: 'post'
 draft: false
-slug: "data_structure_heap"
-category: "Data Structure"
+slug: 'data_structure_heap'
+category: 'Data Structure'
 tags:
-  - "Data Structure"
-  - "Non-Linear"
-description: "비선형 자료구조 - 힙 정리"
+  - 'Data Structure'
+  - 'Non-Linear'
+description: '비선형 자료구조 - 힙 정리'
 ---
 
 ## 힙 (Heap)

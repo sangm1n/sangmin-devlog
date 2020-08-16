@@ -1,13 +1,13 @@
 ---
-title: "[Python] Advanced grammar"
-date: "2020-07-24T16:01:42.169Z"
-template: "post"
+title: '[Python] Advanced grammar'
+date: '2020-07-23T16:01:42.169Z'
+template: 'post'
 draft: false
-slug: "python_grammar"
-category: "Python"
+slug: 'python_grammar'
+category: 'Python'
 tags:
-  - "Python"
-description: "파이썬 개발 역량을 높여줄 고급 문법 정리"
+  - 'Python'
+description: '파이썬 개발 역량을 높여줄 고급 문법 정리'
 ---
 
 ## 인덴트 (Indent)

@@ -1,13 +1,13 @@
 ---
-title: "[Algorithm] Dynamic programming"
-date: "2020-08-05T21:01:42.169Z"
-template: "post"
+title: '[Algorithm] Dynamic programming'
+date: '2020-08-04T21:01:42.169Z'
+template: 'post'
 draft: false
-slug: "algorithm_dynamic_programming"
-category: "Algorithm"
+slug: 'algorithm_dynamic_programming'
+category: 'Algorithm'
 tags:
-  - "Algorithm"
-description: "알고리즘 - 다이나믹 프로그래밍 정리"
+  - 'Algorithm'
+description: '알고리즘 - 다이나믹 프로그래밍 정리'
 ---
 
 ## 다이나믹 프로그래밍 (Dynamic Programming)
