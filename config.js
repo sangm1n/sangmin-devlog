@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/sangmin-devlog',
-  title: 'Devlog by sangmin',
+  title: 'sangminlog',
   subtitle: 'Dept. of Software, Dankook University',
   copyright: '© All rights reserved.',
   disqusShortname: '',
