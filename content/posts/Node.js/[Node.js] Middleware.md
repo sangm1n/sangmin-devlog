@@ -1,7 +1,7 @@
 ---
 title: '[Node.js] Middleware'
 date: '2020-08-21T16:01:42.169Z'
-emplate: 'post'
+template: 'post'
 draft: false
 slug: 'nodejs_middleware'
 category: 'Node.js'
@@ -48,6 +48,14 @@ description: 'Node.js - 자주 사용하는 미들웨어 정리'
 
 - 요청에 동봉된 쿠키를 해석해 req.cookies 객체로 만들어줌
 - app.use(cookieParser(비밀키));
+  - 비밀키를 통해 만들어낸 서명을 쿠키 값 뒤에 붙임
+  - name=sangmin.sign
+  - 서명된 쿠키는 req.signedCookies 객체에 들어 있음
+
+## express-session
+
+- 세션 관리용 미들웨어
+- 세션은 사용자별로 req.session 객체 안에 유지
 
 <hr>
 
