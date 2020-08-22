@@ -39,7 +39,7 @@ module.exports = {
   author: {
     name: '이상민',
     photo: '/sangmin.jpg',
-    bio: 'Software, Dankook University',
+    bio: 'TIL diary',
     contacts: {
       email: 'dltkd96als@naver.com',
       facebook: '',
